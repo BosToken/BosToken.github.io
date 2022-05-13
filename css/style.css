@@ -107,6 +107,10 @@ h5 {
     font-size: 30px;
 }
 
+.line{
+    text-decoration: line-through;
+}
+
 @media only screen and (max-width: 600px) {
 
     body {
